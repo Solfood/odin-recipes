@@ -33,19 +33,11 @@ h3 {
 
 ol {
     list-style: lower-roman;
-    float: right;
-  
-    
-}
-
-ul{
-    
-    float: right;
+      
 }
 
 li {
     font-weight: 400;
-    text-align: justify;
-    
+    text-align: justify;    
 }
 
